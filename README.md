@@ -1,1 +1,2 @@
-# RFM_Analysis_Python
+# RFM Analysis in Python
+![Netflix Logo]()
