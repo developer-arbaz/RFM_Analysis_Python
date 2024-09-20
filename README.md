@@ -1,2 +1,2 @@
 # RFM Analysis in Python
-![Netflix Logo]()
+![Puzzal](puzzle.jpg)
